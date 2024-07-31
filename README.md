@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
+Meu nome é Tiago Elias Marção
+ 
+ - Estou estudando na [Alura](https://www.alura.com.br)
+ - Estou me desenvolvendo na linguagem JavaScript
+ - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
-**TiagoElias03/TiagoElias03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Voce entrar em contato comigo📫
 
-Here are some ideas to get you started:
+00001101355955SP@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+@tiago_eli4s
 
+![](https://media1.tenor.com/m/Sk3ybYkV5AEAAAAC/sukuna-vs-gojo.gif)
